@@ -2,7 +2,7 @@ import React from 'react';
 
 const Mobile = () => {
     return ( 
-        <p>Mobile</p>
+        <p>Mobile ui</p>
      );
 }
  

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Desktop = () => {
     return ( <p>
-        Desktop
+        Desktop ui
     </p> );
 }
  
